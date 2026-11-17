@@ -6,7 +6,7 @@
 
   <groupId>com.distantmelody</groupId>
   <artifactId>melody-http</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 
   <name>melody-http</name>
   <description>HTTP helper. The class is com.distantmelody.library.service.ServiceUtil, with the SU option types. Depends on melody-json.</description>
@@ -43,7 +43,7 @@
     <dependency>
       <groupId>com.distantmelody</groupId>
       <artifactId>melody-json</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.1</version>
     </dependency>
   </dependencies>
 
